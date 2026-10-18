@@ -1,8 +1,8 @@
 # Biblioteca de Skills de SEO e GEO
 
-Skills para SEOs que trabalham com pouca estrutura: sem time de dados, sem orçamento para ferramentas, muitas vezes sozinhos dentro da empresa.
+Skills de SEO e GEO que levam o raciocínio de um especialista para dentro da sua IA. Elas foram construídas a partir da prática com grandes marcas e servem a qualquer time: o profissional que conduz o SEO de ponta a ponta, a equipe que quer padronizar suas análises e quem está assumindo a área agora.
 
-Cada skill traz **o raciocínio**, não a ferramenta. Ela diz qual informação é necessária, como obtê-la sem custo, o que fazer com ela e como decidir. A informação pode vir de onde você tiver acesso: os painéis gratuitos que os buscadores oferecem ao dono do site, analytics, rastreadores em versão gratuita, o próprio CMS, planilhas, coleta manual.
+Cada skill traz **o raciocínio**, não a ferramenta, e funciona com os recursos que você já tem. Ela diz qual informação é necessária, como obtê-la sem custo, o que fazer com ela e como decidir. A informação pode vir de onde você tiver acesso: os painéis gratuitos que os buscadores oferecem ao dono do site, analytics, rastreadores em versão gratuita, o próprio CMS, planilhas, coleta manual.
 
 Cada skill funciona sozinha. Você pode baixar só a que precisa.
 
