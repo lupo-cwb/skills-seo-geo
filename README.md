@@ -6,6 +6,8 @@ Cada skill traz **o raciocínio**, não a ferramenta, e funciona com os recursos
 
 Cada skill funciona sozinha. Você pode baixar só a que precisa.
 
+Guia completo, triagem interativa e downloads: **[lucas-cassapula.com.br/ferramentas/skills-seo-geo](https://lucas-cassapula.com.br/ferramentas/skills-seo-geo)**
+
 ## Como usar
 
 **Claude (app ou web)**
@@ -82,6 +84,7 @@ Como cada skill pode ser baixada sozinha, todas trazem essa orientação complet
 
 **Lucas Cassapula**, especialista em SEO e GEO e sócio e Head de SEO na Wesearch.
 Contato: lucas@wesearch.media
+Site: [lucas-cassapula.com.br](https://lucas-cassapula.com.br)
 
 Sugestões e correções são bem-vindas pelas *issues* deste repositório.
 
